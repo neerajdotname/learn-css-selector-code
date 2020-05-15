@@ -1,0 +1,22 @@
+{
+  "name": "validate-record-js-example",
+  "version": "1.0.0",
+  "description": "validate-record, javascript example",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "keywords": [
+    "fonk",
+    "form-validation",
+    "vanilla javascript"
+  ],
+  "dependencies": {
+    "@lemoncode/fonk": "1.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.7.2",
+    "parcel-bundler": "1.12.4",
+    "sass": "1.23.3"
+  }
+}
